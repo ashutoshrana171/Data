@@ -1,0 +1,91 @@
+﻿Date,Ticker
+15-Sep-2015,['IR']
+21-Sep-2015,"['IR', 'LLL']"
+23-Sep-2015,['IR']
+30-Sep-2015,"['IR', 'LLL']"
+1-Oct-2015,['IR']
+14-Oct-2015,"['IR', 'LLL']"
+15-Oct-2015,['IR']
+20-Oct-2015,"['IR', 'LLL']"
+22-Oct-2015,['IR']
+23-Oct-2015,"['IR', 'LLL']"
+26-Oct-2015,['IR']
+27-Oct-2015,"['IR', 'LLL']"
+28-Oct-2015,['IR']
+2-Nov-2015,"['IR', 'HCBK']"
+3-Nov-2015,"['IR', 'LLL', 'HCBK']"
+4-Nov-2015,"['IR', 'HCBK']"
+5-Nov-2015,"['IR', 'LLL', 'HCBK']"
+6-Nov-2015,"['IR', 'HCBK']"
+11-Nov-2015,['IR']
+16-Nov-2015,"['IR', 'LLL']"
+17-Nov-2015,['IR']
+18-Nov-2015,"['IR', 'LLL']"
+20-Nov-2015,['IR']
+24-Nov-2015,"['BMRN', 'IR']"
+25-Nov-2015,['IR']
+27-Nov-2015,"['IR', 'LLL']"
+30-Nov-2015,['IR']
+3-Dec-2015,"['IR', 'LLL']"
+9-Dec-2015,['IR']
+10-Dec-2015,"['IR', 'LLL']"
+11-Dec-2015,['IR']
+18-Dec-2015,"['IR', 'LLL']"
+28-Dec-2015,"['ALTR', 'IR', 'LLL']"
+29-Dec-2015,['IR']
+31-Dec-2015,"['IR', 'LLL']"
+4-Jan-2016,['IR']
+11-Jan-2016,"['IR', 'LLL']"
+12-Jan-2016,['IR']
+5-Feb-2016,['LLL']
+20-Mar-2018,['CBG']
+24-May-2019,['LLL']
+6-Nov-2020,['BIIB']
+19-Jan-2021,['CXO']
+17-May-2021,['SBUX']
+10-Jan-2022,['WLTW']
+25-Jan-2022,['CL']
+10-Mar-2022,['JD']
+11-Apr-2022,['DISCA']
+19-May-2022,['LUV']
+15-Jun-2022,['WDAY']
+5-Jul-2022,['AES']
+5-Aug-2022,"['CTAS', 'CHRW', 'CI']"
+25-Aug-2022,['UAL']
+30-Aug-2022,['SNPS']
+23-Sep-2022,['MDT']
+28-Sep-2022,['QCOM']
+29-Sep-2022,['O']
+3-Oct-2022,['QCOM']
+14-Oct-2022,['GPC']
+21-Oct-2022,['CSCO']
+27-Oct-2022,['JNPR']
+28-Oct-2022,['RF']
+3-Nov-2022,['MRVL']
+10-Nov-2022,['CRWD']
+2-Dec-2022,['MSFT']
+12-Jan-2023,['BK']
+24-Jan-2023,['HPQ']
+10-Mar-2023,['SIVB']
+13-Mar-2023,"['SBNY', 'SIVB']"
+14-Mar-2023,['SBNY']
+5-Apr-2023,['AMD']
+13-Apr-2023,['GOOG']
+5-May-2023,['NEM']
+16-May-2023,['PKI']
+7-Jun-2023,['FISV']
+9-Jun-2023,['BIIB']
+28-Jun-2023,['AMZN']
+10-Jul-2023,['RE']
+12-Jul-2023,['LEN']
+20-Jul-2023,"['JCI', 'JPM']"
+25-Jul-2023,['QCOM']
+27-Jul-2023,['MSFT']
+21-Aug-2023,['TFC']
+30-Aug-2023,['ABC']
+28-Sep-2023,['ATVI']
+12-Oct-2023,['NKE']
+12-Dec-2023,['NVDA']
+5-Jan-2024,['DVN']
+9-Feb-2024,['TSLA']
+27-Feb-2024,['TSLA']
